@@ -1,0 +1,46 @@
+Interglobe Aviation Ltd.: 1301.60
+ICICI: 427.15
+Titan Company: 1076.40
+SBI: 359.00
+TCS: 2096.00
+
+Interglobe Aviation Ltd.: 1301.60
+Titan Company: 1076.40
+ICICI: 427.00
+TCS: 2096.00
+SBI: 358.65
+
+ICICI: 427.15
+Titan Company: 1076.40
+TCS: 2096.00
+Interglobe Aviation Ltd.: 1301.60
+SBI: 358.90
+
+Interglobe Aviation Ltd.: 1309.40
+ICICI: 427.00
+SBI: 359.00
+Titan Company: 1076.40
+TCS: 2096.00
+
+ICICI: 427.15
+Titan Company: 1076.40
+Interglobe Aviation Ltd.: 1301.60
+TCS: 2096.00
+SBI: 359.00
+Interglobe Aviation Ltd.: 1343.90
+SBI: 358.75
+TCS: 2107.00
+ICICI: 426.40
+Titan Company: 1094.45
+
+ICICI: 426.40
+Titan Company: 1094.90
+SBI: 358.75
+Interglobe Aviation Ltd.: 1343.90
+TCS: 2104.25
+
+SBI: 358.75
+ICICI: 426.40
+Interglobe Aviation Ltd.: 1343.90
+TCS: 2104.25
+Titan Company: 1094.90
